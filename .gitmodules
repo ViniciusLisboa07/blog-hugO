@@ -1,0 +1,8 @@
+[submodule "personalblog/public"]
+	path = personalblog/public
+	url = https://github.com/ViniciusLisboa07/ViniciusLisboa07.github.io.git
+	branch = main
+[submodule "personalblog/static_public"]
+	path = personalblog/static_public
+	url = https://github.com/ViniciusLisboa07/ViniciusLisboa07.github.io.git
+	branch = main
